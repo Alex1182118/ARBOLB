@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F09C8C61-D7F6-4D17-9637-32ABCE66B8EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArbolB/Models/ArbolB.cs">
+    <Files>
+      <File FileName="ArbolB/Models/ArbolB.cs" Line="229" Column="25" />
+      <File FileName="ArbolB/Models/Nodo.cs" Line="69" Column="9" />
+      <File FileName="ArbolB/Models/Farmaco.cs" Line="17" Column="2" />
+      <File FileName="ArbolB/Models/Archivos.cs" Line="1" Column="1" />
+      <File FileName="ArbolB/Controllers/HomeController.cs" Line="26" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArbolB" expanded="True">
+            <Node name="ArbolB" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ArbolB.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ArbolB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
